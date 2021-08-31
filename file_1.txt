@@ -1,3 +1,4 @@
+hello from doug!
 Adding a new line to the top of my text doc!
 this is my first text file
 in my git hub training
